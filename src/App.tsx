@@ -20,6 +20,8 @@ function App() {
 
   return (
     <div style={{ padding: "20px 40px" }}>
+      <h1>UI Accessibility Playground</h1>
+      <hr />
       <h2>Radio Group</h2>
       <RadioGroup
         selectedValue={groupSelectedValue}
